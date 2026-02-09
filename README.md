@@ -1,14 +1,63 @@
-# 👋 Hi, I'm @davidakpunku!  
+# 👋 Hi, I'm David Akpunku  
 
-I'm a passionate software developer crafting innovative solutions across the tech stack.  
+Computer Science student focused on building scalable systems across
+**software, embedded systems, AI, robotics, and payments infrastructure**.
 
-- 🔍 Exploring: Full-stack development, cybersecurity, and building impactful applications with **HTML**, **CSS**, **Bootstrap**, **React**, **Node.js**, **Python**, and **Java**.  
-- 🌱 Learning: Deepening my expertise in software engineering, from web apps to secure systems, with a focus on real-world problem-solving.  
-- 🤝 Open to Collaborate: Excited to work on projects involving web development, software design, or cybersecurity challenges.  
-- 📫 Connect with me: Reach out via LinkedIn or check out my projects below!  
+---
 
-Let's create something extraordinary! 🚀
-<!---
-davidakpunku/davidakpunku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🎓 Computer Engineering Student  
+**University of Texas at Arlington**  
+**Full-time**  
+**Expected Graduation:** May 2026  
+**Arlington, Texas, United States**
+
+- Strong foundation in **software engineering, computer systems, networking, and cybersecurity**
+- Coursework includes Information Security, Unmanned Vehicle Systems, Computer Architecture, Human Computer Interaction and Networking
+- Passionate about applying theory to real-world, production-level systems
+
+---
+
+## 🤖 AI Parking Lot Finder 
+**Senior Design / Competitive Robotics**
+
+**Dates:** August 2025 – Present  
+**Location:** Arlington, Texas
+
+- Developed a **YOLO-based parking lot availability detection system** using computer vision.
+- Competing in **IGVC 2026 (Autonomous Navigation)** with a full autonomy stack using:
+  - **Jetson Orin Nano**
+  - **ROS2**
+  - **LiDAR, RTK GPS, sensor fusion**
+- Worked on perception, localization, and navigation pipelines for autonomous vehicles.
+
+
+## 🔐 Software Engineering & Security Experience  
+**Academic & Project-Based**
+
+- Built **secure, production-style APIs** with authentication and access control.
+- Hands-on experience with **cryptography concepts**:
+  - Substitution ciphers
+  - Hashing & salting
+  - Dictionary and rainbow table attacks
+- Comfortable working across backend logic, testing, and system-level design.
+
+---
+
+## 🛠️ Technologies & Focus Areas
+
+**Languages:**  
+C • C++ • Python • Java • JavaScript • HTML/CSS • SQL 
+
+**Frameworks & Tools:**  
+FastAPI • Git • Linux • MATLAB  
+
+**Focus Areas:**  
+AI • Embedded Systems • Robotics • Cybersecurity • Frontend/Backend Systems • Databases
+
+---
+
+## 🌐 Let’s Connect
+- **LinkedIn:** https://www.linkedin.com/in/davidakpunku 
+
+Thanks for stopping by! 👋  
+Feel free to explore my repositories or reach out to collaborate.
